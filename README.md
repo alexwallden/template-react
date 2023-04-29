@@ -1,4 +1,4 @@
-# Template react
+# Template React
 
 ## Dependencies
 - Axios
