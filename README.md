@@ -9,3 +9,4 @@
 ## Dev dependencies
 - Typescript
 - Sass
+- Prettier
